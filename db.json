@@ -1,0 +1,40 @@
+{
+	"plans": [{
+		"id": 42,
+		"amount": 15000,
+		"days": 30,
+		"name": "The Pro Plan - Platinum  - Best Ever",
+		"trialDays": 0,
+		"paymentMethods": [
+			"BOLETO",
+			"CREDIT_CARD"
+		],
+		"installments": 1
+	}],
+	"subscriptions": [{
+		"id": 175,
+		"cardNumber": "4242424242424242",
+		"cardCvv": "122",
+		"cardHolderName": "Aardvark Silva",
+		"cardExpirationDate": "1220",
+		"customer": {
+			"name": "Morpheus Fishburne",
+			"email": "mopheus@nabucodonozor.com",
+			"externalId": "#3311",
+			"type": "INDIVIDUAL",
+			"country": "br",
+			"documents": [{
+				"type": "CPF",
+				"number": "30621143049"
+			}],
+			"phoneNumbers": [
+				"+5511999998888",
+				"+5511888889999"
+			],
+			"birthday": "1965-01-01"
+		},
+		"planId": "453234",
+		"amount": 10000
+	}]
+	
+}
